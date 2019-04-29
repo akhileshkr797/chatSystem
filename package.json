@@ -1,0 +1,19 @@
+{
+  "name": "chatsystem",
+  "version": "1.0.0",
+  "description": "Sample ChatSystem",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhileshkr797/chatSystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhileshkr797/chatSystem/issues"
+  },
+  "homepage": "https://github.com/akhileshkr797/chatSystem#readme"
+}
